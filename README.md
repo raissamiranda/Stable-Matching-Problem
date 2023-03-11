@@ -4,9 +4,9 @@ This project allocates visitors to bicycles according to people's favorite bicyc
 ## Usage
 The input for the problem is a map and a preference list. People have their favorite bicycles and bicycles have the preference list based on the distance. The map has people, bicycles, obstacles and free way. The stable matching algorithm priorizes people's preference.
 
->  *    indicating a traversable section of the map. Visitors can transit through this region without problems.
+>  '*'    indicating a traversable section of the map. Visitors can transit through this region without problems.
 >
->  -  indicating an obstacle on the map. Visitors cannot cross this region, they must go around it.
+>  '-'  indicating an obstacle on the map. Visitors cannot cross this region, they must go around it.
 >  
 >  Lowercase letters from ’a’ to  ’j’  ->  indicating a visitor, where visitor ’a’ has ID = 1, the visitor 'b' has ID = 2 and so on. Suppose a visitor can traverse spaces ocuppied by the others visitors.
 >  
