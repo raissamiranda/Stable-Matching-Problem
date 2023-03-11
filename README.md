@@ -31,4 +31,15 @@ The input for the problem is a map and a preference list. People have their favo
 >3 4 
 >
 >4 5
+>
+'''
+2 // <N´umero de visitantes e bicicletas>
+4 4 // <N´umero de linhas> <N´umero de colunas>
+a**0 // <Mapa da orla>
+--** // <Mapa da orla>
+*-** // <Mapa da orla>
+b*1* // <Mapa da orla>
+3 4 // <Preferencias do primeiro visitante>
+4 5
+'''
   
