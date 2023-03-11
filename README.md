@@ -10,6 +10,7 @@ The input for the problem is a map and a preference list. People have their favo
 > '-'  indicating an obstacle on the map. Visitors cannot cross this region, they must go around it. 
 
 > Lowercase letters from ’a’ to  ’j’  ->  indicating a visitor, where visitor ’a’ has ID = 1, the visitor 'b' has ID = 2 and so on. Suppose a visitor can traverse spaces ocuppied by the others visitors.
+
 > Numbers, from '0' to '9'  ->  indicating a bicycle. Bike ’0’ has the highest priority (ID = 1), while bike ’9’ has the lowest priority (ID = 10). Suppose visitors can cross spaces occupied by a bicycle.
 
   
