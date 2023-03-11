@@ -17,20 +17,19 @@ The input for the problem is a map and a preference list. People have their favo
  ## Example
  ### input
 
->2
+>$2$
 > 
->4 4
+>$4 4$
 > 
->a**0 
+>$a**0 $
 >
->--** 
+>$--** $
 >
 >$*-** $
 >
 >b**1** 
 >
->3 4 
->
->4 5
+>$3 4$ 
+> $>4 5$
 >
   
