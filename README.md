@@ -26,7 +26,7 @@ The input for the problem is a map and a preference list. People have their favo
 >
 >*-** 
 >
->b*1* 
+>b**1** 
 >
 >3 4 
 >
