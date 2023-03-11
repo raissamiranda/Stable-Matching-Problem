@@ -16,7 +16,7 @@ The input for the problem is a map and a preference list. People have their favo
  
  ## Example
  ### input
-$
+
 >2
 > 
 >4 4
@@ -25,7 +25,7 @@ $
 >
 >--** 
 >
->*-** 
+>$*-** $
 >
 >b**1** 
 >
@@ -33,5 +33,4 @@ $
 >
 >4 5
 >
-$
   
