@@ -30,6 +30,12 @@ The input for the problem is a map and a preference list. People have their favo
 >b**1** 
 >
 >$3 4$ 
-> $>4 5$
 >
+> $>4 5$
+
+### output
+> $ a 1$
+
+> $ b 0
+
   
