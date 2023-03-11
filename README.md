@@ -37,13 +37,13 @@ b 0
 
 ## Execution
 Go to the directory where the program was stored
-> cd -directory-
+``` cd -directory- ```
 
 Now, compile and execute the program with an input file .txt
-> g++ stable_matching.cpp
-
-> ./a.out -teste_file.txt-
-
+```
+g++ stable_matching.cpp
+./a.out -teste_file.txt-
+```
 It will be displayed in the command line the generated pairs between bikes and people.
 
   
