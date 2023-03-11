@@ -19,7 +19,7 @@ The input for the problem is a map and a preference list. People have their favo
 
 >$2$
 > 
->$4 4$
+>$4  4$
 > 
 >$a**0 $
 >
@@ -29,7 +29,7 @@ The input for the problem is a map and a preference list. People have their favo
 >
 >b**1** 
 >
->$3 4$ 
+>$3  4$ 
 >
 > $>4 5$
 
@@ -38,4 +38,16 @@ The input for the problem is a map and a preference list. People have their favo
 
 > $ b 0
 
+## Execution
+Go to the directory where the program was stored
+> cd -directory-
+
+Now, compile and execute the program with an input file .txt
+> g++ stable_matching.cpp
+
+> ./a.out -teste_file.txt-
+
+It will be displayed in the command line the generated pairs between bikes and people.
+> 
+> 
   
