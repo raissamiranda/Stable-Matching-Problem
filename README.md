@@ -38,7 +38,9 @@ b 0
 ## Execution
 Go to the directory where the program was stored
 
-``` cd -directory- ```
+``` 
+cd -directory-
+```
 
 Now, compile and execute the program with an input file .txt
 ```
